@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="./stars.gif" alt="Stars" width="100%">
+</p>
+
 # ♠️ About Me:
-🔳Frontend-developer
+🔳Frontend-developer<br>
 🔲Specialize in developing modern websites and web applications.
 
 
