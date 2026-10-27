@@ -2,7 +2,6 @@
   <img src="./stars.gif" alt="Stars" width="100%">
 </p>
 
-# ♠️ About Me:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Fullstack-developer;developing+websites+and+mobile+applications." />
 </p>
